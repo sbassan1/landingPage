@@ -89,13 +89,13 @@ body {
 
 .placeholderHero{
 
-    font-family:serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color:#F9FAF8;
     background: gray;
     width: 450px;
+    height: auto;
+}
+
+.placeholderHero img {
+    width: 100%;
 }
 
 .randomInformation {
